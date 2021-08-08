@@ -1,8 +1,10 @@
 # Uptime-Bot
 
 ```diff
-+ The source code will work on Glitch/Repl.it.
++ The source code will work on Repl.it.
 + Node V14 Required.
++ Keeps glitch and Repl.it projects online
+- Bot can't be hosted on glitch
 ```
 
 ## About
